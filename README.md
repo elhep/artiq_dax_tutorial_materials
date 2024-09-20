@@ -2,6 +2,8 @@
 
 Experiment files are located in `experiments`.
 
+Presentations are located in `presentations`.
+
 ## Links
 
 - [Sinara Home Page](https://sinara-hw.github.io/)
