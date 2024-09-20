@@ -11,6 +11,6 @@ Experiment files are located in `experiments`.
 - [ARTIQ Manual](https://m-labs.hk/artiq/manual/)
 - [Duke ARTIQ Extensions repository](https://gitlab.com/duke-artiq/dax)
 - [Creotech Instruments S.A.](https://creotech.pl/science/)
-- [Technosystem sp. z o.o.](https://technosystem.pl/en/)
+- [Technosystem sp. z o.o.](https://sinara.technosystem.pl)
 - [Purchasing Hardware](https://github.com/sinara-hw/meta/wiki/Purchasing)
 
